@@ -1,0 +1,20 @@
+CC = gcc
+CFLAGS = -Wall -g -Werror -o
+LDFLAGS = -c
+
+SRC = ./src
+OBJ = ./obj
+INC = ./include
+BIN = ./bin
+
+IFLAGS = -I $(INC)
+
+
+all: $(OBJ)/main.o $(OBJ)/myfunction.o
+	$(CC) $(CFLAGS) $(BIN)/calc $(OBJ)/main.o $(OBJ)/myfunction.o
+$(OBJ)/main.o: $(SRC)/main.c
+	$(CC) $(LDFLAGS) $(SRC)/main.c $(IFLAGS)
+$(OBJ)/myfunction.o: $(SRC)/myfunction.c
+	$(CC) $(LDFLAGS) $(SRC)/myfunction.c $(IFLAGS)
+	mv *o $(OBJ)/
+
