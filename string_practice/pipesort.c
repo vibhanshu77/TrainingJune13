@@ -19,7 +19,7 @@ int main()
 	}
 	count = count + 1;
 	
-	char arr[count][100], temp[100];
+	char arr[count][100], temp[100], arr1[count][100];
 
 	int i = 0, p = 0, f;
 	char *token = strtok(a, "|");
@@ -39,14 +39,14 @@ int main()
 			strcpy(arr[p],token);
 			p++;
 		}
-		//strcpy(arr[i],token);
+		strcpy(arr[i],token);
 		//printf("%s\t",token);
 		token = strtok(NULL, "|");
 		i++;
 	}
-	for(int i = 0 ; i < p ; i++)
+	for(int i = 0 ; i <p ; i++)
 	{
-		for(int j = i+1 ; j<count ; j++)
+		for(int j = i+1 ; j<p ; j++)
 		{
 			if(strcmp(arr[i], arr[j]) > 0)
 			{

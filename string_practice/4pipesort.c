@@ -39,14 +39,14 @@ int main()
 			strcpy(arr[p],token);
 			p++;
 		}
-		//strcpy(arr[i],token);
+		strcpy(arr[i],token);
 		//printf("%s\t",token);
 		token = strtok(NULL, " ");
 		i++;
 	}
 	for(int i = 0 ; i < p ; i++)
 	{
-		for(int j = i+1 ; j<count ; j++)
+		for(int j = i+1 ; j<p ; j++)
 		{
 			if(strcmp(arr[i], arr[j]) > 0)
 			{
