@@ -4,11 +4,12 @@
 #include <unistd.h>
 #include <sys/socket.h>
 #include <string.h>
+#include<limits.h>
 
 #include "../include/loggers.h"
 #include "../include/server_functions.h"
 
-#define SIZE 1024
+#define SIZE 10000
 #define MYPORT 15836
 
 int main()

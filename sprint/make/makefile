@@ -9,10 +9,10 @@ all: $(BIN)/server $(BIN)/client
 
 $(BIN)/server: $(OBJ)/server.o $(OBJ)/searchInFile.o $(OBJ)/searchForFile.o $(OBJ)/searchForString.o $(OBJ)/displayFileContents.o $(OBJ)/searchInDirectory.o $(OBJ)/logs.o | $(BIN)
 	$(CC) $(CFLAGS) -o server $(OBJ)/server.o $(OBJ)/searchInFile.o $(OBJ)/searchForFile.o $(OBJ)/searchForString.o $(OBJ)/displayFileContents.o $(OBJ)/searchInDirectory.o $(OBJ)/logs.o
-
+	mv server $(BIN)/
 $(BIN)/client: $(OBJ)/client.o | $(BIN)
 	$(CC) $(CFLAGS) -o client $(OBJ)/client.o
-
+	mv client $(BIN)/
 $(OBJ)/server.o: $(SRC)/server.c $(INC)/server_functions.h $(INC)/loggers.h | $(BIN)
 	$(CC) $(CFLAGS) -c $(SRC)/server.c -o $(OBJ)/server.o
 
@@ -40,8 +40,5 @@ $(OBJ)/client.o: $(SRC)/client.c | $(BIN)
 #clean:
 	#rm -f $(BIN)/server $(BIN)/client *.o
 
-$(BIN):
-	mkdir -p $(BIN)
-	mv ./make/client ./make/server $(BIN)/
 
 

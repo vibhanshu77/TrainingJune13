@@ -4,8 +4,10 @@
 #include <unistd.h>
 #include <sys/socket.h>
 #include <string.h>
+#include<limits.h>
 
-#define SIZE 1024
+
+#define SIZE 10000 
 #define MYPORT 15836 
 
 int main()
@@ -58,9 +60,12 @@ int main()
                		scanf("%d", &case1SubChoice);
                 	getchar();
                 	char basePath[SIZE] = "";
-                	printf("Enter path: ");
+			if (case1SubChoice == 1){
+                		printf("Enter the Path: ");
+			}
                 	if (case1SubChoice == 2) {
-                	    strcat(basePath, "/home2/user16");
+				printf("Enter Filename : ");
+                	    	strcat(basePath, "/home2/user16/sprint/data/");
                 	}
                 	scanf("%s", buffer);
                 	strcat(basePath, buffer);

@@ -1,0 +1,238 @@
+[2024-07-23 04:31:05] [INFO ] Creating Socket.
+[2024-07-23 04:31:05] [INFO ] Binding to port
+[2024-07-23 04:31:05] [FATAL] Bind failed 
+[2024-07-23 04:31:34] [INFO ] Creating Socket.
+[2024-07-23 04:31:34] [INFO ] Binding to port
+[2024-07-23 04:31:34] [INFO ] Listening for incoming connections
+[2024-07-23 04:31:34] [INFO ] Server Listening on port. 15836
+
+[2024-07-23 04:32:15] [INFO ] Searching for a file in filesystem with filePath - 
+[2024-07-23 04:32:15] [INFO ] File exists - TRUE
+[2024-07-23 04:32:46] [INFO ] Searching for a file in filesystem with filePath - 
+[2024-07-23 04:32:46] [FATAL] File exists - FALSE
+[2024-07-23 04:33:16] [INFO ] Searching for the string 'socket' in the filesystem
+[2024-07-23 04:33:16] [INFO ] String found in file - /home2/user16/sprint/src/server.c
+[2024-07-23 04:33:16] [INFO ] String found in file - /home2/user16/sprint/src/client.c
+[2024-07-23 04:33:16] [INFO ] String found in file - /home2/user16/sprint/logs/logfile.txt
+[2024-07-23 04:33:16] [INFO ] String found in file - /home2/user16/check/server.c
+[2024-07-23 04:33:16] [INFO ] String found in file - /home2/user16/check/client.c
+[2024-07-23 04:33:16] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/server.c
+[2024-07-23 04:33:16] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/client.c
+[2024-07-23 04:33:38] [INFO ] Reading contents of file - /home2/user16/sprint/logs/logfile.txt
+[2024-07-23 04:33:38] [INFO ] File exists - TRUE
+[2024-07-23 04:34:51] [INFO ] Creating Socket.
+[2024-07-23 04:34:51] [INFO ] Binding to port
+[2024-07-23 04:34:51] [INFO ] Listening for incoming connections
+[2024-07-23 04:34:51] [INFO ] Server Listening on port. 15836
+
+[2024-07-23 04:34:59] [INFO ] Reading contents of file - /home2/user16/sprint/logs/logfile.txt
+[2024-07-23 04:34:59] [INFO ] File exists - TRUE
+[2024-07-23 04:46:10] [INFO ] Creating Socket.
+[2024-07-23 04:46:10] [INFO ] Binding to port
+[2024-07-23 04:46:10] [INFO ] Listening for incoming connections
+[2024-07-23 04:46:10] [INFO ] Server Listening on port. 15836
+
+[2024-07-23 04:46:36] [INFO ] Searching for the string 'include' in the filesystem
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/src/searchForString.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/src/searchInFile.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/src/displayFileContents.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/src/server.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/src/searchInDirectory.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/src/client.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/src/logs.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/src/searchForFile.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/logs/logfile.txt
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/bin/server
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/object/searchForString.o
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/sprint/make/makefile
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/try.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/check/sf_displayFileContents.o
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/check/server.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/check/sf_displayFileContents.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/check/sf_searchForString.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/check/client.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/check/sf_searchForFile.o
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/check/sf_searchForFile.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/src/main.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/test/calc_testfunctions.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/test/logmsg.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/test/calc_test.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/make/makescript
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/searchForString.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/searchInFile.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/displayFileContents.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/server.c
+[2024-07-23 04:46:36] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/searchInDirectory.c
+[2024-07-23 04:49:45] [INFO ] Creating Socket.
+[2024-07-23 04:49:45] [INFO ] Binding to port
+[2024-07-23 04:49:45] [INFO ] Listening for incoming connections
+[2024-07-23 04:49:45] [INFO ] Server Listening on port. 15836
+
+[2024-07-23 04:50:23] [INFO ] Searching for a file in filesystem with filePath - 
+[2024-07-23 04:50:23] [FATAL] File exists - FALSE
+[2024-07-23 04:50:43] [INFO ] Searching for a file in filesystem with filePath - 
+[2024-07-23 04:50:43] [INFO ] File exists - TRUE
+[2024-07-23 04:51:07] [INFO ] Exiting execution 
+[2024-07-23 04:51:07] [INFO ] Closing Socket Now. 
+[2024-07-23 04:51:07] [INFO ] Socket is now closed.
+[2024-07-23 04:55:59] [INFO ] Creating Socket.
+[2024-07-23 04:55:59] [INFO ] Binding to port
+[2024-07-23 04:55:59] [INFO ] Listening for incoming connections
+[2024-07-23 04:55:59] [INFO ] Server Listening on port. 15836
+
+[2024-07-23 04:56:12] [INFO ] Searching for the string 'include' in the filesystem
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/src/searchForString.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/src/searchInFile.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/src/displayFileContents.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/src/server.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/src/searchInDirectory.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/src/client.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/src/logs.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/src/searchForFile.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/logs/logfile.txt
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/bin/server
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/object/searchForString.o
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/sprint/make/makefile
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/try.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/check/sf_displayFileContents.o
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/check/server.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/check/sf_displayFileContents.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/check/sf_searchForString.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/check/client.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/check/sf_searchForFile.o
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/check/sf_searchForFile.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/src/main.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/test/calc_testfunctions.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/test/logmsg.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/test/calc_test.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/calc/make/makescript
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/searchForString.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/searchInFile.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/displayFileContents.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/server.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/searchInDirectory.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/client.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/logs.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/searchForFile.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/bin/server
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/object/searchForString.o
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/make/makefile
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/pipes/fullduplex.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/pipes/5.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/pipes/2.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/pipes/3.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/pipes/pipe_1.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/pipes/pipe_2.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/pipes/1.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/sigaction1.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/advanceSignal.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/basicSignalDemo.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/7.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/cautionwithsignal.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/sigAlarm.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/alarm.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/5.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/2.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/6_sender.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/sigaction_mask.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/3.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/4.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/6_receiver.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/signals/1.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/fork/fork1.c
+[2024-07-23 04:56:12] [INFO ] String found in file - /home2/user16/TrainingJune13/pointers/addnumbers.c
+[2024-07-23 04:56:25] [INFO ] Reading contents of file - /home2/user16/TrainingJune13/signals/1.c
+[2024-07-23 04:56:25] [INFO ] File exists - TRUE
+[2024-07-23 04:57:07] [INFO ] Exiting execution 
+[2024-07-23 04:57:07] [INFO ] Closing Socket Now. 
+[2024-07-23 04:57:07] [INFO ] Socket is now closed.
+[2024-07-23 05:14:52] [INFO ] Creating Socket.
+[2024-07-23 05:14:52] [INFO ] Binding to port
+[2024-07-23 05:14:52] [FATAL] Bind failed 
+[2024-07-23 05:15:13] [INFO ] Creating Socket.
+[2024-07-23 05:15:13] [INFO ] Binding to port
+[2024-07-23 05:15:13] [FATAL] Bind failed 
+[2024-07-23 05:15:32] [INFO ] Creating Socket.
+[2024-07-23 05:15:32] [INFO ] Binding to port
+[2024-07-23 05:15:32] [FATAL] Bind failed 
+[2024-07-23 05:15:34] [INFO ] Creating Socket.
+[2024-07-23 05:15:34] [INFO ] Binding to port
+[2024-07-23 05:15:34] [FATAL] Bind failed 
+[2024-07-23 05:15:51] [INFO ] Creating Socket.
+[2024-07-23 05:15:51] [INFO ] Binding to port
+[2024-07-23 05:15:51] [FATAL] Bind failed 
+[2024-07-23 05:15:55] [INFO ] Creating Socket.
+[2024-07-23 05:15:55] [INFO ] Binding to port
+[2024-07-23 05:15:55] [FATAL] Bind failed 
+[2024-07-23 05:15:57] [INFO ] Creating Socket.
+[2024-07-23 05:15:57] [INFO ] Binding to port
+[2024-07-23 05:15:57] [FATAL] Bind failed 
+[2024-07-23 05:16:17] [INFO ] Creating Socket.
+[2024-07-23 05:16:17] [INFO ] Binding to port
+[2024-07-23 05:16:17] [FATAL] Bind failed 
+[2024-07-23 05:16:18] [INFO ] Creating Socket.
+[2024-07-23 05:16:18] [INFO ] Binding to port
+[2024-07-23 05:16:18] [FATAL] Bind failed 
+[2024-07-23 05:16:19] [INFO ] Creating Socket.
+[2024-07-23 05:16:19] [INFO ] Binding to port
+[2024-07-23 05:16:19] [FATAL] Bind failed 
+[2024-07-23 05:16:21] [INFO ] Creating Socket.
+[2024-07-23 05:16:21] [INFO ] Binding to port
+[2024-07-23 05:16:21] [FATAL] Bind failed 
+[2024-07-23 05:16:28] [INFO ] Creating Socket.
+[2024-07-23 05:16:28] [INFO ] Binding to port
+[2024-07-23 05:16:28] [FATAL] Bind failed 
+[2024-07-23 05:16:30] [INFO ] Creating Socket.
+[2024-07-23 05:16:30] [INFO ] Binding to port
+[2024-07-23 05:16:30] [FATAL] Bind failed 
+[2024-07-23 05:17:50] [INFO ] Creating Socket.
+[2024-07-23 05:17:50] [INFO ] Binding to port
+[2024-07-23 05:17:50] [FATAL] Bind failed 
+[2024-07-23 05:18:09] [INFO ] Creating Socket.
+[2024-07-23 05:18:09] [INFO ] Binding to port
+[2024-07-23 05:18:09] [FATAL] Bind failed 
+[2024-07-23 05:18:12] [INFO ] Creating Socket.
+[2024-07-23 05:18:12] [INFO ] Binding to port
+[2024-07-23 05:18:12] [FATAL] Bind failed 
+[2024-07-23 05:18:42] [INFO ] Creating Socket.
+[2024-07-23 05:18:42] [INFO ] Binding to port
+[2024-07-23 05:18:42] [INFO ] Listening for incoming connections
+[2024-07-23 05:18:42] [INFO ] Server Listening on port. 15836
+
+[2024-07-23 05:22:41] [INFO ] Searching for a file in filesystem with filePath - 
+[2024-07-23 05:22:41] [FATAL] File exists - FALSE
+[2024-07-23 05:22:46] [INFO ] Exiting execution 
+[2024-07-23 05:22:46] [INFO ] Closing Socket Now. 
+[2024-07-23 05:22:46] [INFO ] Socket is now closed.
+[2024-07-23 05:29:26] [INFO ] Creating Socket.
+[2024-07-23 05:29:26] [INFO ] Binding to port
+[2024-07-23 05:29:26] [INFO ] Listening for incoming connections
+[2024-07-23 05:29:26] [INFO ] Server Listening on port. 15836
+
+[2024-07-23 05:30:00] [INFO ] Searching for a file in filesystem with filePath - 
+[2024-07-23 05:30:00] [INFO ] File exists - TRUE
+[2024-07-23 05:30:11] [INFO ] Searching for a file in filesystem with filePath - 
+[2024-07-23 05:30:11] [FATAL] File exists - FALSE
+[2024-07-23 05:30:31] [INFO ] Searching for the string 'connection' in the filesystem
+[2024-07-23 05:30:31] [INFO ] String found in file - /home2/user16/sprint/src/server.c
+[2024-07-23 05:30:31] [INFO ] String found in file - /home2/user16/sprint/logs/logfile.txt
+[2024-07-23 05:30:31] [INFO ] String found in file - /home2/user16/check/server.c
+[2024-07-23 05:30:31] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/src/server.c
+[2024-07-23 05:30:31] [INFO ] String found in file - /home2/user16/TrainingJune13/sprint/logs/logfile.txt
+[2024-07-23 05:30:41] [INFO ] Reading contents of file - /home2/user16/check/server.c
+[2024-07-23 05:30:41] [INFO ] File exists - TRUE
+[2024-07-23 05:30:57] [INFO ] Reading contents of file - /home2/user16/check/server.c
+[2024-07-23 05:30:57] [INFO ] File exists - TRUE
+[2024-07-23 05:31:28] [INFO ] Exiting execution 
+[2024-07-23 05:31:28] [INFO ] Closing Socket Now. 
+[2024-07-23 05:31:28] [INFO ] Socket is now closed.
+[2024-07-23 05:32:53] [INFO ] Creating Socket.
+[2024-07-23 05:32:53] [INFO ] Binding to port
+[2024-07-23 05:32:53] [INFO ] Listening for incoming connections
+[2024-07-23 05:32:53] [INFO ] Server Listening on port. 15836
+
+[2024-07-23 05:33:28] [INFO ] Searching for a file in filesystem with filePath - 
+[2024-07-23 05:33:28] [INFO ] File exists - TRUE
+[2024-07-23 05:33:49] [INFO ] Exiting execution 
+[2024-07-23 05:33:49] [INFO ] Closing Socket Now. 
+[2024-07-23 05:33:49] [INFO ] Socket is now closed.
